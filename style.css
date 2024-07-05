@@ -1,0 +1,10 @@
+body{
+    background-color: rgb(158, 255, 223);
+    border-style: groove;
+}
+h1{
+    text-transform: uppercase;
+}
+.button {
+    background-color: rgb(64, 196, 152);
+}
